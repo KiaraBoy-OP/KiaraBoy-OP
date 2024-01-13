@@ -8,6 +8,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KiaraBoy-OP&theme=black-ice)](https://git.io/streak-stats)
 
-[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=KiaraBoy-OP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://guthub.com/KiaraBoy-OP)
+[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=KiaraBoy-OP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/KiaraBoy-OP)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiaraBoy-OP&layout=compact&theme=cobalt)](https://github.com/KiaraBoy-OP)
